@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: rgb(0, 59, 3);
+  background-color: rgb(0, 110, 6);
 }
 
 .centralization {
@@ -31,7 +31,7 @@ body {
   background: linear-gradient(90.07deg, #a1ff8e 2.12%, #00ff15 99.94%);
   font-weight: 800;
   font-size: 12px;
-  color: #414141;
+  color: rgb(0, 110, 6);
   cursor: pointer;
 }
 .logo button:hover {
@@ -60,7 +60,7 @@ body {
   background: linear-gradient(90.07deg, #a1ff8e 2.12%, #00ff15 99.94%);
   font-weight: 800;
   font-size: 20px;
-  color: #414141;
+  color: rgb(0, 110, 6);
   cursor: pointer;
 }
 .callToAction button:hover {
